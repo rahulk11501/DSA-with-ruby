@@ -18,11 +18,11 @@ class Stack
   end
 end
 
-s = Stack.new
-s.push 1
-s.push 2
-s.push 3
-p s       
+#s = Stack.new
+#s.push 1
+#s.push 2
+#s.push 3
+#p s       
 
-s.pop   
-p s       
+#s.pop   
+#p s       
