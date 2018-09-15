@@ -1,3 +1,4 @@
+#TODO benchmarking and improvements
 class Node
   
   attr_accessor :data, :next_node, :visited
