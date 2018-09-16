@@ -22,5 +22,8 @@ Algorithms
 4. Applications of Data structures 
 
 
+RESOURCES: 
 
-
+1. http://classyhacker.me/data-structures-ruby
+2. Mycode school - DS playlist
+3. Mycode school - Searching playlist
